@@ -45,7 +45,10 @@
   </ul>
 </details>
 
+### Key Features <a name="key-features"></a>
 
+
+- **Mastering HTML & CSS linters**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
