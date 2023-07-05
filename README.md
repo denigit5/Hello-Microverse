@@ -32,14 +32,14 @@
 </details>
 
 <details>
-  <summary>Express.jsr</summary>
+  <summary>HTML</summary>
   <ul>
     <li><a href="https://expressjs.com/">CSS</a></li>
   </ul>
 </details>
 
 <details>
-<summary>PostgreSQL</summary>
+<summary>CSS</summary>
   <ul>
     <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
   </ul>
